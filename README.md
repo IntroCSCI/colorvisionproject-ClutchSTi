@@ -24,21 +24,21 @@ Here is an example of the program running:
 Choose 3 color values (Red,Green,Blue) to save to a file (From 0-255):
 
 Enter the 'Red' value. 
-286
-This value was not between 0-255. Please enter another value.
-216
-
- Enter the 'Green' value. 
--35
+-13
 This value was not between 0-255. Please enter another value.
 138
 
- Enter the 'Blue' value. 
-385
+Enter the 'Green' value. 
+326
 This value was not between 0-255. Please enter another value.
-62
+247
 
- Choose a name for the file. 
+Enter the 'Blue' value. 
+258
+This value was not between 0-255. Please enter another value.
+92
+
+Choose a name for the file. 
 The Six Color Problem Solver
  
 ```
